@@ -1,4 +1,4 @@
-  def 
+  def nyc_pigeon_organizer
   data.each do |trait, options|
     options.each do |option, pigeons|
       pigeons.each do |pigeon|
